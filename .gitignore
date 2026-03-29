@@ -69,4 +69,3 @@ backend/*.db
 .DS_Store
 Thumbs.db
 /assignmnet1.ipynb
-/frontend/node_modules
