@@ -1,0 +1,72 @@
+# =========================
+# Frontend (Next.js)
+# =========================
+
+# Dependencies
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.*
+frontend/.yarn/*
+!frontend/.yarn/patches
+!frontend/.yarn/plugins
+!frontend/.yarn/releases
+!frontend/.yarn/versions
+
+# Build output
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Coverage
+frontend/coverage/
+
+# Environment files
+frontend/.env*
+!frontend/.env.example
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# Misc
+frontend/.DS_Store
+frontend/*.pem
+frontend/.vercel
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+
+# =========================
+# Backend (FastAPI / Python)
+# =========================
+
+# Virtual environment
+backend/.venv/
+backend/venv/
+
+# Python cache
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+
+# Environment variables
+backend/.env
+backend/.env.*
+
+# Logs
+backend/*.log
+
+# Database files (if using sqlite)
+backend/*.db
+
+# =========================
+# Global
+# =========================
+
+.DS_Store
+Thumbs.db
+/assignmnet1.ipynb
+/frontend/node_modules
