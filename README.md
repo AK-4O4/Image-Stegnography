@@ -4,6 +4,15 @@ Hide secret images inside ordinary images — and retrieve them back — using 4
 
 ---
 
+## Application
+
+<div align="center">
+  <img src="frontend\public\image.png" width="49%" alt="Encode" />
+  <img src="frontend\public\image-1.png" width="49%" alt="Decode" />
+</div>
+
+---
+
 ## Demo
 
 | Encode | Decode |
