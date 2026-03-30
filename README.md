@@ -1,6 +1,6 @@
 # Image Steganography
 
-Hide secret images inside ordinary images — and retrieve them back — using 4-bit LSB steganography. Built with a **FastAPI** backend and a **Next.js + shadcn/ui** frontend.
+Hide secret images inside ordinary images and retrieve them back using 4-bit LSB steganography. Built with **FastAPI** backend and **Next.js + shadcn/ui** frontend.
 
 ---
 
