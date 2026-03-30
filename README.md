@@ -58,8 +58,8 @@ Image-Stegnography/
     │   └── globals.css
     ├── components/
     │   ├── ui/               # shadcn components
-    │   ├── theme-provider.tsx
-    │   └── theme-toggle.tsx
+    │   └── theme-provider.tsx
+    │
     └── package.json
 ```
 
